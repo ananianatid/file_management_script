@@ -34,6 +34,10 @@ Un simple script Bash permettant d'organiser automatiquement les fichiers prése
 
 Le script déplacera les fichiers dans les dossiers appropriés et vous indiquera lorsque l'organisation est terminée.
 
+## Etat d'avancement
+
+Production-ready -- script complet, testee et documente.
+
 ## Contribution
 
 Si vous avez des suggestions pour améliorer le script ou si vous souhaitez ajouter des types de fichiers supplémentaires, n'hésitez pas à faire une **pull request** ou à ouvrir un **issue**.
